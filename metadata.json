@@ -1,0 +1,6 @@
+{
+  "name": "Sovereign 3D Chess",
+  "description": "Real-time 3D multiplayer chess with live matchmaking, bespoke piece skins, and built-in match chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
